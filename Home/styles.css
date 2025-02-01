@@ -1038,7 +1038,7 @@ i{
 
 #hero-content-lower p{
     height: 28px;
-    width: 322px;
+    width: 100%;
     /* background: blue; */
     color: #ffffff9b;
     font-size: 16px;
@@ -1119,7 +1119,6 @@ i{
     background-image: url(assets/WorkPageBg.png);
     background-repeat: repeat;
     background-position: center;
-
 }
 
 
@@ -1249,6 +1248,7 @@ i{
 
     #main-container{
         margin-left: 0px;
+        height: 7096px;
     }
 
     #hero{
@@ -1265,6 +1265,12 @@ i{
     #hero-content-container{
         margin-left: 40px;
         margin-top: 63px;
+    }
+
+    #work{
+        margin-top: 55px;
+        height: 2586px;
+        background-position: top;
     }
 }
 
@@ -1307,6 +1313,7 @@ i{
 
     #main-container{
         margin-left: 0px;
+        height: 6375px;
     }
 
     #hero{
@@ -1363,6 +1370,12 @@ i{
     #hero-content-lower p{
         margin-top: 4px;
     }
+
+    #work{
+        margin-top: 58px;
+        height: 1564px;
+        background-position: top;
+    }
 }
 
 
@@ -1404,6 +1417,7 @@ i{
 
     #main-container{
         margin-left: 0px;
+        height: 6375px;
     }
 
     #hero{
@@ -1468,5 +1482,11 @@ i{
 
     #hero-content-lower p{
         margin-top: 4px;
+    }
+
+    #work{
+        margin-top: 70px;
+        height: 1564px;
+        background-position: top;
     }
 }
